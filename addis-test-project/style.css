@@ -1,0 +1,26 @@
+/*
+
+Theme Name: Addis Test Project
+
+Theme URI: https://afterimagedesigns.com/wp-bootstrap-starter/
+
+Description: WP Bootstrap Starter Child Theme
+
+Author: Addis
+
+Author URI: your web address goes here
+
+Template Name: wp-bootstrap-starter
+
+Version: 1.0.0
+
+*/
+
+@import url("../wp-content/themes/wp-bootstrap-starter/style.css");
+
+.banner{
+  max-width: 900px;
+}
+.img-media{
+  max-width: 6rem;
+}
